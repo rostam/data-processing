@@ -2,5 +2,4 @@ matplotlib
 beautifulsoup4
 pandas
 numpy
-BytesIO
 keras
