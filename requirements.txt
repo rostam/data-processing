@@ -2,4 +2,6 @@ matplotlib
 beautifulsoup4
 pandas
 numpy
+tensorflow
 keras
+
